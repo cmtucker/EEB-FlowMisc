@@ -2,8 +2,8 @@
 #First choose how to get the data:
 
 #IF you chose to download the data file already, make sure you have the local file pathway correctly here:
-myfile <- "2017caRd_data.csv"
-newImage <- read.csv(myfile, header=TRUE)
+#myfile <- "2017caRd_data.csv"
+#newImage <- read.csv(myfile, header=TRUE)
 
 
 #OR, use RCurl package to download it directly from github 
